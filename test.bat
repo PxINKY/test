@@ -1,3 +1,1 @@
-:a
-start chrome https://youtu.be/bkFqqczlXF0
-GOTO a:
+start chrome https://youtu.be/dQw4w9WgXcQ
