@@ -1,0 +1,1 @@
+curl -i -H "Accept: application/json" -H "Content-Type:application/json" -X POST --data "{\"content\": \"=\"}" https://discord.com/api/webhooks/965777369887563776/imBa_OhW4Rxedae54mVWViY4qvNLKOMZYj5F0vqVVU3BleWLXEHzfiYFWi6UItmaXaYD
